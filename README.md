@@ -57,7 +57,7 @@ Hyperion is designed to evolve into a fully-featured gaming platform. Planned im
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hyperion.git
+git clone https://github.com/swejasonzhang/hyperion.git
 cd hyperion
 
 # Install dependencies
